@@ -17,7 +17,7 @@
 
 ---
 
-### 💻 Tech Stack & Tools
+### Tech Stack & Tools
 
 **Languages:**  
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
@@ -65,7 +65,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=entitas-L&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Leo's GitHub Stats" width="48%" />
@@ -74,7 +74,7 @@
 
 ---
 
-### 🌐 Connect & Find Me
+### Connect & Find Me
 
 <p align="left">
   <a href="https://github.com/entitas-L">
