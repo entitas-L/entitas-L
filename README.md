@@ -56,12 +56,12 @@
 
 ###  Featured Projects & Explorations
 
-- ** Agritech (HaloTani V2):** Smart agriculture platform integrated with AI for crop disease and symptom analysis. Built using a local **9Router** gateway to orchestrate **OpenRouter**, **Nvidia Nemotron**, and **Cerebras API** with automated model fallback, system message filtering, and a robust `KiraAiService` backend in Laravel.
-- ** Android FLAC Audio Player:** High-Res lossless music player with embedded cover art extraction, dynamic theme colors, 5-band AudioFx Equalizer, and CI/CD GitHub Actions build.
-- ** SiklusSehat:** Sleep schedule and body rhythm management web platform built using Laravel MVC architecture.
-- ** Minimarket Transaction System:** Cashier management system with RBAC built with PHP, Bootstrap 5, and MySQL.
-- ** ASCII Snake Game:** Terminal-based OOP game engine engineered in Java.
-- ** Interactive Stream Widgets:** Custom Battlefield 1 themed donation overlay & mediashare widget built with HTML/CSS/JS for Bagibagi platform.
+- **Agritech (HaloTani V2):** Smart agriculture platform integrated with AI for crop disease and symptom analysis. Built using a local **9Router** gateway to orchestrate **OpenRouter**, **Nvidia Nemotron**, and **Cerebras API** with automated model fallback, system message filtering, and a robust `KiraAiService` backend in Laravel.
+-  **Android FLAC Audio Player:** High-Res lossless music player with embedded cover art extraction, dynamic theme colors, 5-band AudioFx Equalizer, and CI/CD GitHub Actions build.
+-  **SiklusSehat:** Sleep schedule and body rhythm management web platform built using Laravel MVC architecture.
+-  **Minimarket Transaction System:** Cashier management system with RBAC built with PHP, Bootstrap 5, and MySQL.
+-  **ASCII Snake Game:** Terminal-based OOP game engine engineered in Java.
+-  **Interactive Stream Widgets:** Custom Battlefield 1 themed donation overlay & mediashare widget built with HTML/CSS/JS for Bagibagi platform.
 
 ---
 
